@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/tweets_generator.dir/tweets_generator.c.o CMakeFiles/tweets_generator.dir/markov_chain.c.o CMakeFiles/tweets_generator.dir/linked_list.c.o -o tweets_generator 
